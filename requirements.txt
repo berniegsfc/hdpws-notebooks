@@ -1,6 +1,6 @@
-hdpws>=0.4
+hdpws>=0.6.19
 sscws>=2.3.15
-cdasws>=1.7.41
+cdasws>=1.7.43
 cdflib>=0.4.4
 hapiclient>=0.2.6
 hapiplot>=0.2.6
